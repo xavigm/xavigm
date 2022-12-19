@@ -1,4 +1,15 @@
+<img src=https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif>
+
 ### Hi there 👋
+
+- 🏍️ I'm Xavi Gonzalez, a system administrator actually working in Dorna Sports (MotoGP, WSBK).
+
+- 👨‍💻 Here you will find some personal projects, things for Raspberry pi, Python applications, some scripts...
+
+- 📰 You can read some of my articles on my blog: xavigonzalez.net
+and learn more about my experience on Linkedin: https://www.linkedin.com/in/xavi-gonzalez-6b3110a4/
+
+- 📯 Write me an email to the address xavi@xavigonzalez.net
 
 <!--
 **xavigm/xavigm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
