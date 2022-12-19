@@ -6,7 +6,7 @@
 
 - 👨‍💻 Here you will find some personal projects, things for Raspberry pi, Python applications, some scripts...
 
-- 📰 You can read some of my articles on my blog: xavigonzalez.net
+- 📰 You can read some of my articles on my blog: https://blog.xavigonzalez.net
 and learn more about my experience on Linkedin: https://www.linkedin.com/in/xavi-gonzalez-6b3110a4/
 
 - 📯 Write me an email to the address xavi@xavigonzalez.net
