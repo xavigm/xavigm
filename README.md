@@ -2,14 +2,28 @@
 
 ### Hi there 👋
 
-- 🏍️ I'm Xavi Gonzalez, a system administrator actually working in Dorna Sports (MotoGP, WSBK).
+<img src=header_in.jpg>
 
-- 👨‍💻 Here you will find some personal projects, things for Raspberry pi, Python applications, some scripts...
+- 🏍️ I'm Xavi Gonzalez, a system administrator actually working in Dorna Sports (MotoGP, WSBK) as DevOps Engineer.
+
+- 👨‍💻 What you will find here is not too similar to my day-to-day work. My hobby is making applications in Flask (python), messing around with the raspberry pi, etc.
 
 - 📰 You can read some of my articles on my blog: https://blog.xavigonzalez.net
 and learn more about my experience on Linkedin: https://www.linkedin.com/in/xavi-gonzalez-6b3110a4/
 
 - 📯 Write me an email to the address xavi@xavigonzalez.net
+
+- Take a look at my latest projects.
+
+  - ⚽ [*AFL*](https://github.com/xavigm/fantasy_public): An application to create custom fantasy leagues
+
+  - 🛍️ [*Walscrap*](https://github.com/xavigm/walscrap): Create web pages in real time from Wallapop profiles
+
+  - 🍗 [*DietaBot*](https://github.com/xavigm/dietabot_public): Telegram bot to send diets and break down their ingredients with AI
+
+  - ☀️ [*Raspitemp*](https://github.com/xavigm/raspitemp): A home thermostat for Raspberry Pi made in Flask
+
+  - 🔒 [*Flask Login*](https://github.com/xavigm/flask-login-example): a template to start a project that requires authentication
 
 <!--
 **xavigm/xavigm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
