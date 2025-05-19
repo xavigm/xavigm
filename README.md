@@ -15,6 +15,8 @@ and learn more about my experience on Linkedin: https://www.linkedin.com/in/xavi
 
 - Take a look at my latest projects.
 
+  - 🧠 [*Ollama panel analyzer (Grafana plugin)*](https://github.com/xavigm/ollama-analyzer-panel-grafana): Grafana plugin to analyze metrics with ollama LLM models
+
   - ⚽ [*AFL*](https://github.com/xavigm/fantasy_public): An application to create custom fantasy leagues
 
   - 🛍️ [*Walscrap*](https://github.com/xavigm/walscrap): Create web pages in real time from Wallapop profiles
