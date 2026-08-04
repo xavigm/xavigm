@@ -17,7 +17,7 @@ and learn more about my experience on Linkedin: https://www.linkedin.com/in/xavi
 
   - 🧠 [*Ollama panel analyzer (Grafana plugin)*](https://github.com/xavigm/ollama-analyzer-panel-grafana): Grafana plugin to analyze metrics with ollama LLM models
  
-  - 🏍️ [*Motorsport Reminder Bot*](https://github.com/xavigm/motorsport-reminder-bot): Telegram bot to daily receive the next most importants motorsports events
+  - 🏍️ [*Motorsport Reminder Bot*](https://github.com/xavigm/motorsportreminderbot): Telegram bot to daily receive the next most importants motorsports events
 
   - ⚽ [*AFL*](https://github.com/xavigm/fantasy_public): An application to create custom fantasy leagues
 
